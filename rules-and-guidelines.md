@@ -14,33 +14,35 @@ Below is a summary of rules you need to follow if you want to have an account on
 10. No advertisements or apologia for cryptocurrencies, NFT's, or multi-level marketing schemes
 11. No shortened links, e.g. bit.ly, t.ly, goo.gl, ift.tt, lnkd.in, is.gd or t.co (These are malicious because link-shorteners track users without their consent and obscure the destination address, which also prevents users from being able to decide whether they want to visit the link beforehand)
 
-## Scholar Social Community Standards
+## archaeo.social Community Standards
 
-This is a queer-friendly general-purpose federated Mastodon instance. You may use it as a personal account, but the focus is on academics. Scholar Social has been described as "The teacher's break room of the Fediverse."
+This is a general-purpose federated Mastodon instance. You may use it as a personal account, but the focus is on archaeology.
 
 Real names and credentials are only recommended if you plan to use your account on this instance for networking purposes; they are absolutely not required.
 
-## Encouraged uses of Scholar Social
+## Encouraged uses of archaeo.social
 
 - Brag about your publications
 - Share references and resources
-- Network with other academics
+- Network with other archaeologists
 - Put it on the last slide of your conference presentation
-- Recruit participants for academic surveys—formal, IRB-approved ones or even informal ones (just make sure to CW them so that others can consent and don't get too obnoxious about it; see the full Terms of Service for details about other research on Scholar Social members)
+- Recruit participants for academic surveys—formal, IRB-approved ones or even informal ones (just make sure to CW them so that others can consent and don't get too obnoxious about it; see the full [Terms of Service]() for details about other research on archaeo.social members)
 - Satire and activism are welcome here, but they must make a good-faith effort to punch up. ("Punching up": making jokes or criticism at the expense of those with more power, higher status or greater privilege.)
-- Non-academic, "off-topic" stuff is allowed, but try to post this as Unlisted, not as Public
+- Non-archaeological, "off-topic" stuff is allowed, but try to post this as Unlisted, not as Public
 
-## Who is welcome on Scholar Social? Do I need to be a full-time student, teacher or researcher?
+## Who is welcome on archaeo.social? Do I need to be a full-time student, teacher or researcher?
 
-The "topic" for this instance is: academia, research, teaching and learning, which is intentionally a very broad topic. You do not need an advanced degree to join (or any degree, for that matter).
+The "topic" for this instance is: archaeological research, teaching and learning, which is intentionally a very broad topic. You do not need an advanced degree to join (or any degree, for that matter).
 
-If you consider yourself a scholar of any sort, and you are willing to engage with others respectfully, and you will respect our community's efforts to make this a safe space for queer people and other minorities, you are absolutely welcome here.
+If you consider yourself an archaeologist of any sort, and you are willing to engage with others respectfully, and you will respect our community's efforts to make this a safe space for queer people and other minorities, you are absolutely welcome here.
 
-This instance was specifically started to provide a safe space for queer people and other minorities in academia. Due to the antagonistic relationship that law enforcement has often had with these groups, police officers and employees of any law enforcement or intelligence agency are not welcome on this instance.
+Due to the antagonistic relationship that law enforcement has often had with queer people and other minorities, police officers and employees of any law enforcement or intelligence agency are not welcome on this instance.
 
 ## Introduce yourself!
 
-After signing up, post a message to the Local Timeline telling us who you are, what your academic interests are, and helping us to get to know you better. I have set the administrative account to automatically boost public posts tagged with #introductions. (But if you abuse this by using it for anything else, I will close your account without warning.)
+After signing up, post a message to the Local Timeline telling us who you are, what your archaeological interests are, and helping us to get to know you better. I have set the administrative account to automatically boost public posts tagged with #introductions. (But if you abuse this by using it for anything else, I will close your account without warning.)
+
+We encourage you to upload a profile picture and include a bio in your profile to help you stand out. This is not required, but strongly recommended.
 
 ## Content Warnings (CW's)
 
@@ -56,10 +58,22 @@ Please add CW's (content warnings) that are accurate and descriptive enough to e
 - references or links to Facebook/Twitter/other big tech companies,
 - spoilers of popular and recent TV shows or other media,
 - ASCII art (this one is important to ensure that someone using a screen reader doesn't have to listen to an attempt to read out a bunch of obscure symbols)
-- stresses particular to academia such as grades, exams, thesis progress, academic job market prospects, and
-- anything else where another user might want to decide for themselves whether or when they want to interact with your post.
+- stresses particular to academia such as grades, exams, thesis progress, academic job market prospects,
+- anything else where another user might want to decide for themselves whether or when they want to interact with your post, and
+- images of human remains
 
-There is a setting in your preferences to open all posts with Content Warnings automatically, if you don't want to click through each one.
+Please also use accurate and descriptive CW's hashtags for various kinds of announcements, including:
+
+- calls for papers,
+- calls for action,
+- job postings,
+- funding opportunities,
+- publication announcements,
+- announcements about promotion or job placement,
+- press releases, and
+- blog posts
+
+There is a setting in your preferences to open all posts with Content Warnings automatically, if you don't want to click through each one. These kinds of posts disrupt many users' positive social experience on the web and should be treated as "opt-in" content.
 
 ## Image descriptions
 
@@ -77,11 +91,11 @@ Make the first post of a thread Public if you want it on the Local Timeline, and
 
 NOTE: The "official" Mastodon app is NOT recommended for use on Scholar Social, as it does not allow for posting using the "Unlisted" privacy setting.
 
-Use a CW or post as Unlisted if you're not sure that your post is "on-topic." The Scholar Social Local Timeline is not meant to be a current events news aggregator, and if your post seems to fall into this category, you may be asked to delete and re-draft it with a CW or as an Unlisted post. Let's try to avoid turning the Local Timeline into the same rehashing of the outrage-of-the-day that we see on Twitter!
+Use a CW or post as Unlisted if you're not sure that your post is "on-topic." The archaeo.social Local Timeline is not meant to be a current events news aggregator, and if your post seems to fall into this category, you may be asked to delete and re-draft it with a CW or as an Unlisted post. Let's try to avoid turning the Local Timeline into the same rehashing of the outrage-of-the-day that we see on Twitter!
 
 Not _every_ post on the Local Timeline should be CW'd, but most should. Do your best to try to accommodate each other, and try to be understanding when there is a clash of expectations or needs.
 
-## Unwelcome conduct on Scholar Social
+## Unwelcome conduct on archaeo.social
 
 The following will result in: a warning from the admin or having offending posts deleted, possibly without prior notice.
 
@@ -95,6 +109,8 @@ Exceptions:
 
 - DOI links (e.g. https://doi.org/10.1136/bmj.k959) are allowed but the post must accurately describe the title/author/journal to allow the reader to decide for themselves whether they would like to follow the link. (In cases of very long titles, you may truncate it, and in cases of long author lists, "First-Author et al" will do.) Posts with DOI links where the target of the link is not described, or not described sufficiently, may be deleted without warning.
 
+We encourage ecommunity members to report behaviour that that exhibits negative conduct, such as that which is described here.
+
 ## Things that will get your account closed, possibly without warning
 
 - Racism, sexism, homophobia, transphobia, able-ism, etc. (will result in a permanent ban, you may not receive a prior warning)
@@ -102,14 +118,38 @@ Exceptions:
 - Anything that could be described as "spam"
 - Impersonating other people
 - Harassment of any kind
-- No bots and no "institutional" accounts operated by non-members please; Scholar Social is for people
-- Accounts that automatically repeat a Twitter account, RSS feed, etc. must post to Scholar Social as Unlisted, not Public
+- No bots and no "institutional" accounts operated by non-members please; archaeo.social is for people
+- Accounts that automatically repeat a Twitter account, RSS feed, etc. must post to archaeo.social as Unlisted, not Public
+
+The Local Timelime is actively moderated. Please do not hesitate to report bad behaviour and to bring such behaviour to Moderators' attention.
 
 ## Regarding attempts to abuse these anti-abuse tools and policies
 
-Do not attempt to weaponize our Community Standards or anti-abuse tools/policies against marginalized groups such as people of colour, women or queer people. Users of Scholar Social are expected to have the literacy to understand that "reverse discrimination" is not real, and so attempts to re-centre discussions of marginalized people around the feelings of the privileged will be taken as manipulative behaviour undertaken deliberately in bad-faith. (E.g. white people should not demand that people of colour put CW's on every discussion of race; a straight person who reports a queer person for writing "I hate straight people" may find their own account suspended.)
+Do not attempt to weaponize our Community Standards or anti-abuse tools/policies against marginalized groups such as people of colour, women or queer people. Users of archaeo.social are expected to have the literacy to understand that "reverse discrimination" is not real, and so attempts to re-centre discussions of marginalized people around the feelings of the privileged will be taken as manipulative behaviour undertaken deliberately in bad-faith. (E.g. white people should not demand that people of colour put CW's on every discussion of race; a straight person who reports a queer person for writing "I hate straight people" may find their own account suspended.)
 
-[Full terms of service](https://scholar.social/terms)
+[Full terms of service](https://archaeo.social/terms)
+
+## Brand accounts
+
+Brand accounts are allowed but must be relevant to the scope that archaeo.social has defined for itself. archaeo.social is for people, and the experiences of human users is our top priority.
+
+Brand accounts are accounts that represent the following kinds of entities:
+
+- products,
+- journals,
+- academic societies,
+- research projects,
+- research centres,
+- interest groups, and
+- university of government departments, or other institutional entities
+
+Brands must therefore abide by the following rules:
+
+- use accurage and descriptive CW's hashtags for various kinds of announcements [link to section above],
+- follow smart threading practices, and
+- limit repetitive postings, and in cases where repetitive posting is warranted, keep them within a single thread, and vary the language used in each post so that they are not identical or overly repetitive
+
+## Uploaded media
 
 ## Moderated servers
 
@@ -120,7 +160,7 @@ Mastodon generally allows you to view content from and interact with users from 
 Media files from these servers will not be processed or stored, and no thumbnails will be displayed, requiring manual click-through to the original file:
 
 |Server|Reason|
--------|------|
+|-------|------|
 
 
 ### Limited servers
