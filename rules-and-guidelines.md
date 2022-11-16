@@ -145,11 +145,13 @@ Brand accounts are accounts that represent the following kinds of entities:
 
 Brands must therefore abide by the following rules:
 
-- use accurage and descriptive CW's hashtags for various kinds of announcements [link to section above],
+- use accurage and descriptive CW's hashtags for various kinds of announcements, as described above,
 - follow smart threading practices, and
 - limit repetitive postings, and in cases where repetitive posting is warranted, keep them within a single thread, and vary the language used in each post so that they are not identical or overly repetitive
 
 ## Uploaded media
+
+Uploaded media (i.e. images and videos attached to posts) are automatically backed up through our hosting provider. However, archaeo-social is not an archive and you should not assume that anything hosted on archaeo-social servers is preserved for longevity.
 
 ## Moderated servers
 
