@@ -1,41 +1,25 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
-10minutepleroma.com,suspend,true,true,Spam [mastodon.social],true
 a.sc,suspend,true,true,Hate speech [mastodon.social],true
 bae.st,suspend,true,true,Inappropriate content [mastodon.social],true
 beefyboys.win,suspend,true,true,Hate speech [mastodon.social],true
-beta.birdsite.live,suspend,true,true,Third-party bots [mastodon.social],true
 beta.mstdn.cf,suspend,true,true,Third-party bots [mastodon.social],true
 birb.elfenban.de,suspend,true,true,Third-party bots [mastodon.social],true
 birdbots.leptonics.com,suspend,true,true,Third-party bots [mastodon.social],true
-birdbridge.autonomy.earth,suspend,true,true,Third-party bots [mastodon.social],true
 bird.evilcyberhacker.net,suspend,true,true,Third-party bots [mastodon.social],true
 bird.froth.zone,suspend,true,true,Third-party bots [mastodon.social],true
 bird.istheguy.com,suspend,true,true,Third-party bots [mastodon.social],true
 bird.r669.live,suspend,true,true,Third-party bots [mastodon.social],true
-birdsite.b93.dece.space,suspend,true,true,Third-party bots [mastodon.social],true
-birdsite.cloutier.co,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.darkesttimeline.social,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.frog.fashion,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.gabeappleton.me,suspend,true,true,Third-party bots [mastodon.social],true
-birdsite.gred.al,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.james.moody.name,suspend,true,true,Third-party bots [mastodon.social],true
-birdsite.jemverse.xyz,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.link,suspend,true,true,Third-party bots [mastodon.social],true
-birdsitelive.bubbletea.dev,suspend,true,true,Third-party bots [mastodon.social],true
-birdsitelive.loca.lt,suspend,true,true,Third-party bots [mastodon.social],true
-birdsitelive.moistgarbage.info,suspend,true,true,Third-party bots [mastodon.social],true
 birdsitelive.treffler.cloud,suspend,true,true,Third-party bots [mastodon.social],true
-birdsite.mastodon.me.uk,suspend,true,true,Third-party bots [mastodon.social],true
-birdsite.monster,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.nytpu.com,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.oliviaappleton.com,suspend,true,true,Third-party bots [mastodon.social],true
-birdsite.skye.cx,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.slashdev.space,suspend,true,true,Third-party bots [mastodon.social],true
-birdsite.spectreos.de,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.tcjc.uk,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.thorlaksson.com,suspend,true,true,Third-party bots [mastodon.social],true
-birdsite.toot.si,suspend,true,true,Third-party bots [mastodon.social],true
-birdsite.vrparty.social,suspend,true,true,Third-party bots [mastodon.social],true
 birdsite.wilde.cloud,suspend,true,true,Third-party bots [mastodon.social],true
 brands.town,suspend,true,true,Spam [mastodon.social],true
 bridge.birb.space,suspend,true,true,Third-party bots [mastodon.social],true
@@ -43,17 +27,13 @@ catgirl.life,suspend,true,true,Harassment [mastodon.social],true
 cawfee.club,suspend,true,true,Hate speech [mastodon.social],true
 cnet.site,suspend,true,true,Harassment [mastodon.social],true
 coom.club,suspend,true,true,Harassment [mastodon.social],true
-cum.desupost.soy,suspend,true,true,Hate speech [mastodon.social],true
 cum.salon,suspend,true,true,Hate speech [mastodon.social],true
 cyberstorm.one,suspend,true,true,Hate speech [mastodon.social],true
-daffodil-11.org,suspend,true,true,Spam [mastodon.social],true
 detroitriotcity.com,suspend,true,true,Hate speech [mastodon.social],true
 dlf.social,suspend,true,true,Inappropriate content [mastodon.social],true
 eientei.org,suspend,true,true,Hate speech [mastodon.social],true
 eveningzoo.club,suspend,true,true,Hate speech [mastodon.social],true
-fedi.app,suspend,true,true,Harassment [mastodon.social],true
 feminism.lgbt,suspend,true,true,Harassment [mastodon.social],true
-firebird.mullet.social,suspend,true,true,Third-party bots [mastodon.social],true
 freecumextremist.com,suspend,true,true,Hate speech [mastodon.social],true
 freespeechextremist.com,suspend,true,true,Hate speech [mastodon.social],true
 frennet.xyz,suspend,true,true,Hate speech [mastodon.social],true
@@ -66,31 +46,20 @@ gleasonator.com,suspend,true,true,Transphobia [mastodon.social],true
 glindr.org,suspend,true,true,Transphobia [mastodon.social],true
 glowers.club,suspend,true,true,Hate speech [mastodon.social],true
 honkwerx.tech,suspend,true,true,Hate speech [mastodon.social],true
-hunk.city,suspend,true,true,Spam [mastodon.social],true
 iddqd.social,suspend,true,true,Harassment [mastodon.social],true
 intkos.link,suspend,true,true,Hate speech [mastodon.social],true
-jaeger.website,suspend,true,true,Harassment [mastodon.social],true
-kiwifarms.cc,suspend,true,true,Harassment [mastodon.social],true
-kiwifarms.is,suspend,true,true,Harassment [mastodon.social],true
 kiwifarms.net,suspend,true,true,Harassment [mastodon.social],true
 kurosawa.moe,suspend,true,true,Hate speech [mastodon.social],true
 leafposter.club,suspend,true,true,Hate speech [mastodon.social],true
-mastodonhub.com,suspend,true,true,Mirroring other Mastodon accounts without permission [mastodon.social],true
 monstergirl.space,suspend,true,true,Hate speech [mastodon.social],true
 mouse.services,suspend,true,true,Harassment [mastodon.social],true
 mugicha.club,suspend,true,true,Hate speech [mastodon.social],true
 nicecrew.digital,suspend,true,true,Hate speech [mastodon.social],true
-ns.auction,suspend,true,true,Hate speech [mastodon.social],true
 outpoa.st,suspend,true,true,Hate speech [mastodon.social],true
-paypig.org,suspend,true,true,Hate speech [mastodon.social],true
 pieville.net,suspend,true,true,Harassment [mastodon.social],true
 pisskey.io,suspend,true,true,Hate speech [mastodon.social],true
 pleroma.fun,suspend,true,true,Hate speech [mastodon.social],true
-pleroma.kitsunemimi.club,suspend,true,true,Hate speech [mastodon.social],true
 poa.st,suspend,true,true,Hate speech [mastodon.social],true
-pooper.social,suspend,true,true,Hate speech [mastodon.social],true
-rakket.app,suspend,true,true,Hate speech [mastodon.social],true
-raplst.town,suspend,true,true,Harassment [mastodon.social],true
 rdrama.cc,suspend,true,true,Hate speech [mastodon.social],true
 ryona.agency,suspend,true,true,Hate speech [mastodon.social],true
 schwartzwelt.xyz,suspend,true,true,Hate speech [mastodon.social],true
@@ -100,22 +69,14 @@ shitposting.army,suspend,true,true,Hate speech [mastodon.social],true
 shortstackran.ch,suspend,true,true,Hate speech [mastodon.social],true
 sleepy.cafe,suspend,true,true,Hate speech [mastodon.social],true
 sneed.social,suspend,true,true,Hate speech [mastodon.social],true
-social.projectsegfau.lt,suspend,true,true,Spam [mastodon.social],true
-solagg.com,suspend,true,true,Spam [mastodon.social],true
 spinster.xyz,suspend,true,true,Transphobia [mastodon.social],true
-switter.at,suspend,true,true,Preparing for announced shutdown [mastodon.social],true
 tastingtraffic.net,suspend,true,true,Spam [mastodon.social],true
-twitiverse.com,suspend,true,true,Third-party bots [mastodon.social],true
-twitter.1d4.us,suspend,true,true,Third-party bots [mastodon.social],true
-twitter.activitypub.actor,suspend,true,true,Third-party bots [mastodon.social],true
 twtr.carnivore.social,suspend,true,true,Third-party bots [mastodon.social],true
 twtr.plus,suspend,true,true,Third-party bots [mastodon.social],true
 twtr.vrij.social,suspend,true,true,Third-party bots [mastodon.social],true
-twtr.wappie.land,suspend,true,true,Third-party bots [mastodon.social],true
 urchan.org,suspend,true,true,Hate speech [mastodon.social],true
 wagesofsinisdeath.com,suspend,true,true,Harassment [mastodon.social],true
 waifuappreciation.club,suspend,true,true,Harassment [mastodon.social],true
-waifu.social,suspend,true,true,Harassment [mastodon.social],true
 weedis.life,suspend,true,true,Spam [mastodon.social],true
 workers.dev,suspend,true,true,Botnet [mastodon.social],true
 yggdrasil.social,suspend,true,true,Hate speech [mastodon.social],true
