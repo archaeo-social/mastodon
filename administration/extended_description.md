@@ -1,3 +1,5 @@
+archaeo.social is a [Mastodon](https://joinmastodon.org/) instance for archaeologists, historians and lovers of all things ancient. It is open to anyone interested in scholarly communication about the human past and willing to abide by our [rules](#rules) and [community expectations](#expectations).
+
 ## archaeo.social Community Standards
 
 This is a general-purpose federated Mastodon instance. You may use it as a personal account, but the focus is on archaeology.
