@@ -1,96 +1,106 @@
 archaeo.social is a [Mastodon](https://joinmastodon.org/) instance for archaeologists, historians and lovers of all things ancient. It is open to anyone interested in scholarly communication about the human past and willing to abide by our [rules](#rules) and [community expectations](#expectations).
 
-## archaeo.social Community Standards
+This server is part of the [archaeo.social collective](https://about.archaeo.social/) is a network of open, decentralised social media services for archaeology.
+It is administrated by [Joe Roe](https://archaeo.social/@joeroe) and financially supported by [donations on OpenCollective](https://opencollective.com/archaeosocial).
+Our policies, rules and community expectations are decided by consensus; discussion takes place in our [GitHub repositories](https://github.com/archaeo-social) and are open to all.
 
-This is a general-purpose federated Mastodon instance. You may use it as a personal account, but the focus is on archaeology.
+## Joining archaeo.social
 
-Real names and credentials are only recommended if you plan to use your account on this instance for networking purposes; they are absolutely not required.
+[Creating an account](https://archaeo.social/auth/sign_up) on archaeo.social means that it will be your "home server" in the Mastodon network.
+Your posts will by default appear in our [local timeline](https://archaeo.social/public/local) and you will need to agree to abide by our [rules](#rules) and [community expectations](#expectations).
+It doesn't mean that you are limited to interacting here; you can follow users from other Mastodon servers and the wider Fediverse freely, and your personal timeline will include only the accounts and hashtags you follow, wherever they are.
 
-## Encouraged uses of archaeo.social
+After you have created an account, uploaded a profile picture, and filled in your bio, we strongly recommend introducing yourself to the archaeo.social community with a post that tells us about yourself and your interests.
+Including the hashtag [#introduction](https://archaeo.social/tags/introduction) will greatly increases how many potential new followers your post reaches.
 
-- Share or summarize your publications
-- Share references and resources
-- Network with other archaeologists
-- Put it on the last slide of your conference presentation
-- Satire and activism are welcome here, but they must make a good-faith effort to punch up. ("Punching up": making jokes or criticism at the expense of those with more power, higher status or greater privilege.)
+archaeo.social is still a young community and the Fediverse in general is not as widely used in academia as other social networks.
+We appreciate anything you can do to spread awareness, for example by including links to your Mastodon profile (i.e. <https://archaeo.social/@username>; the short form username@archaeo.social only works in the Fediverse) on your other social media profiles, on your institutional profile, in your next conference presentation, etc.
 
-## Who is welcome on archaeo.social? Do I need to be a full-time student, teacher or researcher?
+## Community expectations
 
-This instance is for those primarily interested in scholarly communication about archaeology. You do not need an advanced degree to join, or any degree, for that matter.
+These guidelines supplement the server's [rules](#rules).
 
-If you consider yourself an archaeologist or an archaeological enthusiast of any sort, and you are willing to engage with others respectfully, you are absolutely welcome here.
+### Zero tolerance
 
-## Introduce yourself!
+archaeo.social has zero tolerance for racism, sexism, homophobia, transphobia, xenophobia, ableism, and casteism.
+Users that engage in these behaviours will have their accounts immediately and permanently suspended.
 
-After signing up, post a message to the Local Timeline telling us who you are, what your archaeological interests are, and helping us to get to know you better. We have set the administrative account to automatically boost public posts tagged with #introductions.
+### Acceptable and unacceptable content
 
-We encourage you to upload a profile picture and include a bio in your profile to help you stand out. This is not required, but strongly recommended.
+archaeo.social is primarily intended for scholarly communication about archaeology and the human past.
+We encourage you to use it to talk about your research, promote academic events and programmes, share references and resources, and network with colleagues.
+We are an international community, and posts can be in any language.
+Satire, activism, and a reasonable amount of "off-topic" posting are also welcome.
+Users who use our services excessively for other purposes may have their accounts frozen and will be asked to migrate their accounts to a more suitable server.
 
-## Content Warnings (CW's)
+Content that **others may not wish to see** should be accompanied with a [content warning and/or marked as sensitive](https://docs.joinmastodon.org/user/posting/#cw).
+This includes, but is not limited to:
 
-Please add CW's (content warnings) that are accurate and descriptive enough to enable reader consent to the following types of posts:
+* Images of human remains
+* Spoilers for recent popular media
+* Content likely to be of interest to only very narrow audience
 
-- strong language,
-- rants,
-- selfies,
-- current events (includes: US or non-US, local, national, international, and should be applied regardless of whether sources are academic or non-partisan),
-- high-conflict or otherwise exhausting issues of popular debate (e.g. climate change, GMO's, privacy issues, elections, etc.),
-- mentions of death or violence,
-- photographs or illustrations of insects, genitals, wounds (even if they come from a scientific source)
-- references or links to Facebook/Twitter/other big tech companies,
-- spoilers of popular and recent TV shows or other media,
-- ASCII art (this one is important to ensure that someone using a screen reader doesn't have to listen to an attempt to read out a bunch of obscure symbols)
-- stresses particular to academia such as grades, exams, thesis progress, academic job market prospects,
-- anything else where another user might want to decide for themselves whether or when they want to interact with your post, and
-- images of human remains
+Users who repeatedly omit these warnings may have their posts marked as sensitive automatically, have their accounts frozen, or be suspended.
 
-There is a setting in your preferences to open all posts with Content Warnings automatically, if you don't want to click through each one. These kinds of posts disrupt many users' positive social experience on the web and should be treated as "opt-in" content.
+The following types of content are **not allowed on this server**:
 
-## Image descriptions
+* Pornographic or sexually explicit media without an explicit historical context
+* Excessively violent media without an explicit historical context
+* Anything illegal in Germany, including Holocaust denial and Nazi symbolism
+* Advertising and spam
 
-It is an expectation of this instance that you add accurate descriptions to all images and video that you post to aid in accessibility.
+Users that post these types of content will be immediately suspended.
 
-A good image description should convey the content and the purpose of an image in a concise and unambiguous manner. It shouldn’t be longer than a sentence or two, most of the time a few thoughtfully selected words will do. Consider what is important about an image. For example, important context might be the setting, the emotions on people's faces, the colors, or the relative sizes.
+### Academic integrity
 
-Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of."
+Behaviour that is broadly considered unacceptable in academia is also unacceptable on archaeo.social.
+This includes, but is not limited to, academic dishonesty (plagiarism, cheating, not giving credit), misrepresentation (of your credentials, experience, background), spreading misinformation or pseudoscience, and soliciting for predatory publishers or conferences.
+Users that engage in or promote these behaviours may have their accounts frozen or suspended.
 
-If you post an image of a screenshot of text, you should transcribe the text in the image description.
+### Etiquette and accessibility
 
-## The Local Timeline
+When posting, please be considerate of how your posts will appear both to your followers and in the local and federated timelines.
+Consider using a content warning or making the post unlisted if it is significantly 'off-topic' (i.e. likely not of interest to most other users of archaeo.social)
+When writing a thread, set the first post to be "public" and subsequent posts "unlisted", so that they do not flood the timeline.
 
-Be conscious of how much space you take up on the Local Timeline. This is the instance's "kitchen table," where we all hang out.
+To make posts accessible to all users, attached media should be accompanied with a description.
+A good media description concisely summarises the content and purpose of the image or video.
+It shouldn't be longer than a sentence or two.
+An exception is if you post an image of running text; you should transcribe the text in full in the image description.
 
-Posts on the Local Timeline (ones with the "Public" privacy setting) will be checked to ensure that Content Warnings are applied, images are described, and other expectations are followed. Unlisted posts will not be proactively reviewed, but will still be subject to rules regarding abuse and other hate-speech.
+### Bots and organisation accounts
 
-Make the first post of a thread Public if you want it on the Local Timeline, and subsequent posts Unlisted.
+archaeo.social was made for people and prioritises the experience of human users.
 
-NOTE: Some Mastodon apps, including the "official" Mastodon app, do not allow for posting using the "Unlisted" privacy setting.
+Bots are currently not restricted on archaeo.social, but we ask operators of bots to be considerate of other users, server resources, and the readability of our local timeline.
+Specifically, bot accounts should:
 
-Use a CW or post as Unlisted if you're not sure that your post is "on-topic." The archaeo.social Local Timeline is not meant to be a current events news aggregator, and if your post seems to fall into this category, you may be asked to delete and re-draft it with a CW or as an Unlisted post. Let's try to avoid turning the Local Timeline into the same rehashing of the outrage-of-the-day that we see on Twitter!
+* Include the name and contact details of the human being responsible for them in their bio
+* Respond to direct messages from server administrators and moderators
+* Not post at a rate that dominates the local timeline or degrades server performance 
 
-## Things that will get your account closed, possibly without warning
+Accounts that represent commercial, institutional, or collective entities are also allowed, but must be relevant to the server's scope.
 
-- Racism, sexism, homophobia, transphobia, able-ism, etc. (will result in a permanent ban, you may not receive a prior warning)
-- Serious dishonesty that is hurtful to others (e.g. falsely representing oneself as a member of a minority; services offering to write academic papers to help students cheat; vaccine denialism; predatory conferences or journals; overt pseudoscience such as flat-earther-ism etc.)
-- Anything that could be described as "spam"
-- Impersonating other people
-- Harassment of any kind
-- No bots and no "institutional" accounts operated by non-members please; archaeo.social is for people
-- Accounts that automatically repeat a Twitter account, RSS feed, etc. must post to archaeo.social as Unlisted, not Public
+## Reporting and moderation
 
-The Local Timelime is actively moderated. Please do not hesitate to report bad behaviour and to bring such behaviour to Moderators' attention.
+archaeo.social's moderation team actively monitor the local timeline.
+Unlisted posts are not proactively reviewed but are subject to the same rules and expectations.
 
-## Brand accounts
+If you see a user of archaeo.social breaking any of our rules or failing to meet any of the above expectations, please [report the problematic content](https://docs.joinmastodon.org/user/moderating/#report) to moderators.
+Please explain why you are reporting them in as much detail as you can; we aim to respond within 24 hours.
 
-Brand accounts, or accounts that represent commercial, institutional, or collective entities, are allowed but must be relevant to the scope that archaeo.social has defined for itself. archaeo.social is for people, and the experiences of human users is our top priority.
+You can also report posts you see from users of federated servers on archaeo.social, but please be aware the we are more limited in the ways we can respond to them.
+Mastodon has [extensive options for controlling what you see](https://docs.joinmastodon.org/user/moderating/) from users on your home and federated servers.
 
-## Uploaded media
+## Privacy, data security and longevity
 
-Uploaded media (i.e. images and videos attached to posts) are automatically backed up through our hosting provider. However, archaeo-social is not an archive and you should not assume that anything hosted on archaeo-social servers is preserved for longevity.
+Mastodon was not designed to be a secure storage or messaging protocol.
+Everything you post to this server, including direct messages to other users, is stored **unencrypted** and therefore technically readable by anyone with access to the database.
+We will never knowingly breach your privacy or leave your personal data vulnerable to misuse, but can make no guarantees.
+Please see the [privacy policy](https://archaeo.social/privacy-policy) for more details.
 
-## Server administration and support
-
-- Who is running and moderating this and how to get in touch
-- Link to the GitHub repo
-- Stuff regarding server costs and upkeep
+We envisage archaeo.social as a long-term resource for the scholarly community in archaeology and related disciplines.
+All posts and uploaded media are backed up, at least daily, to multiple secure locations.
+However, archaeo.social is not an archive and you should not assume that your data will be preserved in perpetuity.
+In the event that circumstances force the server to shut down, we commit to giving users at least three months notice so that they can [export their data](https://docs.joinmastodon.org/user/moving/#export) and migrate their account to another server.
 
