@@ -1,1 +1,1 @@
-archaeo.social is a Mastodon instance for archaeologists, ancient historians or anyone interested in scholarly communication about the human past. Part of the archaeo.social collective: https://about.archaeo.social
+archaeo.social is a Mastodon instance for archaeologists, ancient historians or anyone interested in scholarly communication about the human past. More: https://about.archaeo.social
