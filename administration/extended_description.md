@@ -1,4 +1,4 @@
-archaeo.social is a [Mastodon](https://joinmastodon.org/) instance for archaeologists, ancient historians and anyone interested in scholarly communication about the human past. It is part of the [archaeo.social collective](https://about.archaeo.social/) is a network of open, decentralised social media services for archaeology.
+archaeo.social is a [Mastodon](https://joinmastodon.org/) instance for archaeologists, ancient historians and anyone interested in scholarly communication about the human past. It is part of the [archaeo.social collective](https://about.archaeo.social/), a network of open, federated social media services for archaeology.
 
 This server is administrated by [Joe Roe](https://archaeo.social/@joeroe) and financially supported by [donations on OpenCollective](https://opencollective.com/archaeosocial).
 Our policies, rules and community expectations are decided by consensus; discussion takes place in our [GitHub repositories](https://github.com/archaeo-social) and are open to all.
