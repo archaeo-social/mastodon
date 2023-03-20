@@ -1,13 +1,12 @@
-archaeo.social is a [Mastodon](https://joinmastodon.org/) instance for archaeologists, historians and lovers of all things ancient. It is open to anyone interested in scholarly communication about the human past and willing to abide by our [rules](#rules) and [community expectations](#expectations).
+archaeo.social is a [Mastodon](https://joinmastodon.org/) instance for archaeologists, ancient historians and anyone interested in scholarly communication about the human past. It is part of the [archaeo.social collective](https://about.archaeo.social/) is a network of open, decentralised social media services for archaeology.
 
-This server is part of the [archaeo.social collective](https://about.archaeo.social/) is a network of open, decentralised social media services for archaeology.
-It is administrated by [Joe Roe](https://archaeo.social/@joeroe) and financially supported by [donations on OpenCollective](https://opencollective.com/archaeosocial).
+This server is administrated by [Joe Roe](https://archaeo.social/@joeroe) and financially supported by [donations on OpenCollective](https://opencollective.com/archaeosocial).
 Our policies, rules and community expectations are decided by consensus; discussion takes place in our [GitHub repositories](https://github.com/archaeo-social) and are open to all.
 
 ## Joining archaeo.social
 
-[Creating an account](https://archaeo.social/auth/sign_up) on archaeo.social means that it will be your "home server" in the Mastodon network.
-Your posts will by default appear in our [local timeline](https://archaeo.social/public/local) and you will need to agree to abide by our [rules](#rules) and [community expectations](#expectations).
+Creating an account on archaeo.social means that it will be your "home server" in the Mastodon network.
+Your posts will by default appear in our [local timeline](https://archaeo.social/public/local) and you will need to agree to abide by our rules and community expectations.
 It doesn't mean that you are limited to interacting here; you can follow users from other Mastodon servers and the wider Fediverse freely, and your personal timeline will include only the accounts and hashtags you follow, wherever they are.
 
 After you have created an account, uploaded a profile picture, and filled in your bio, we strongly recommend introducing yourself to the archaeo.social community with a post that tells us about yourself and your interests.
@@ -18,9 +17,9 @@ We appreciate anything you can do to spread awareness, for example by including 
 
 ## Community expectations
 
-These guidelines supplement the server's [rules](#rules).
+These guidelines supplement the server's rules.
 
-### Zero tolerance
+## Zero tolerance
 
 archaeo.social has zero tolerance for racism, sexism, homophobia, transphobia, xenophobia, ableism, and casteism.
 Users that engage in these behaviours will have their accounts immediately and permanently suspended.
