@@ -19,7 +19,7 @@ We appreciate anything you can do to spread awareness, for example by including 
 
 These guidelines supplement the server's rules.
 
-## Zero tolerance
+### Zero tolerance
 
 archaeo.social has zero tolerance for racism, sexism, homophobia, transphobia, xenophobia, ableism, and casteism.
 Users that engage in these behaviours will have their accounts immediately and permanently suspended.
